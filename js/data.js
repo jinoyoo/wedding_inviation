@@ -1,0 +1,10 @@
+/* build.sh 가 invitation.conf 에서 생성했습니다. 직접 고치지 않습니다. */
+window.__INV__='.';
+window.__PHOTOS__='photos/';
+window.__ORIGIN__="https://jinoyoo.github.io/wedding_inviation";
+window.__NO_API__=true;
+window.__WEDDING__={"at":"2026-11-21T13:00:00+09:00","firstMetAt":"2025-10-20T00:00:00+09:00","groom":{"name":"유진호","short":"진호","en":"Jinho Yoo","initial":"진","role":"오늘의집 데이터분석가","parents":["유대훈","연정숙"],"rankKo":"장남","rank":"sons[0]","mbti":"","hobby":"","note":"// always on-call for her","photo":"p1192.jpg","photoFocus":"50% 15%","photoZoom":1},"bride":{"name":"심승현","short":"승현","en":"Seunghyun Shim","initial":"승","role":"통일부 공무원","parents":["심상수","박은영"],"rankKo":"장녀","rank":"daughters[0]","mbti":"","hobby":"","note":"// her promises always resolve","photo":"p0183.jpg","photoFocus":"50% 20%","photoZoom":1},"venue":{"name":"서울서문교회","hall":"본당","address":"서울특별시 강동구 강동대로 320","floor":"2층","addressCopy":"서울특별시 강동구 강동대로 320 서울서문교회 2층 본당","subway":"9호선 둔촌오륜역","subwayShort":"9호선 둔촌오륜역","lat":37.5187,"lng":127.1385,"zoom":17},"map":{"naver":"https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%84%9C%EB%AC%B8%EA%B5%90%ED%9A%8C","kakao":"https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%EC%84%9C%EB%AC%B8%EA%B5%90%ED%9A%8C"},"photos":{"main":"p0009.jpg","mainDev":"p0009.jpg","bless":"p2254.jpg","gallery":["p0070.jpg","p0148.jpg","p0183.jpg","p0350.jpg","p0362.jpg","p0606.jpg","p0659.jpg","p0706.jpg","p0715.jpg","p0768.jpg","p0811.jpg","p0876.jpg","p0951.jpg","p0972.jpg","p1060.jpg","p1163.jpg","p1192.jpg","p1253.jpg","p1298.jpg","p1326.jpg","p1408.jpg","p1535.jpg","p1571.jpg","p1694.jpg","p1706.jpg","p1737.jpg","p1850.jpg","p1895.jpg","p1938.jpg","p1959.jpg","p1987.jpg","p2027.jpg","p2125.jpg","p2155.jpg","p2185.jpg","p2296.jpg","p2254.jpg"],"galleryPageOrder":{"main":[],"dev":[]}}};
+window.__NAVER_MAP_KEY__="";
+window.__KAKAO_KEY__="";
+window.__GA_ID__="";
+window.__GIFT__="ZhAljcsOJpuEG/jSFgrvlRwcYJmSTwqN0BnylVFb79ia57cQH/m0ZkJdtyJe4LNpXLk97nUoiqm+az6IqR9sKKqpSXml7wx8KLWJI3up3yK/vh8g/aVEISCigzopxNk49OleeL2/Q0VhvdVBMcTfGLxPtIgMLzjLuiPhBEbLZETNiX0OBDc5xYwDJ63sXJu7jJ9tWoXY81NAlekaRYklCJuCYg7Vja4IConpYgGcYD8=";
